@@ -1,1 +1,12 @@
-
+### Introduction
+The US prison system is broken. It is the manifestation of the United States' deepest social and political issues. Overpolicing, the war on drugs, and a 
+discriminant legal system has led to a disproportionate minority population in prison. Firstly, I am concerned with the difference between white and black 
+incarcerated populations within Washington state. I found from subtracting the black incarcerated population from the white incarcerated population a difference of 
+621.37. While this is not the largest difference, I found statistics from the Vera Institute of Justice that despite representing 70+ percent of the population in
+Washington state, they only represent about 61 percent of the state’s incarcerated population. On the other hand, African Americans represent only five percent of 
+the state’s population yet overwhelmingly represent 18 percent of the incarcerated population. I then wanted to look into the state with the largest proportion of 
+incarcerated African Americans (Maryland)  and the state with the largest overall population of incarcerated African Americans (Georgia). Sticking to the theme of 
+examining minority populations within incarcerated populations, I wanted to find the state with the largest population imprisoned by ICE, or the US Immigration and 
+Customs Enforcement which is shockingly Maryland. I would’ve inferred that a state bordering Canada or Mexico has the largest proportion of individuals imprisoned
+by ICE however this may be because of a Federal prison located in Maryland. Finally, I wanted to find out which county housed the most Latino inmates which ended up 
+being Los Angeles County.
