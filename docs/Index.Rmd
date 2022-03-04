@@ -10,3 +10,12 @@ examining minority populations within incarcerated populations, I wanted to find
 Customs Enforcement which is shockingly Maryland. I would’ve inferred that a state bordering Canada or Mexico has the largest proportion of individuals imprisoned
 by ICE however this may be because of a Federal prison located in Maryland. Finally, I wanted to find out which county housed the most Latino inmates which ended up 
 being Los Angeles County.
+
+## Time Trend Table
+The time trend table I created shows us the population of incarcerated African Americans over time.
+
+## Variable Comparison Chart
+The Variable Comparison chart I created shows the difference of black and white incarcerated populations seperated by rural and ubran.
+
+## Mapping
+Mapping shows incarcerated Latinos populations  Across Washington Counties.
