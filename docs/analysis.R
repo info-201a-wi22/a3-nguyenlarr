@@ -37,7 +37,7 @@ total_recent_jail_ratio <- incarceration_data %>%
 ice_ratio <- incarceration_data %>%
   mutate(ice_prop = total_jail_from_ice / total_jail_pop) %>%
   filter(ice_prop == max(ice_prop, na.rm=TRUE)) %>%
-  pull(county_name)
+  pull(state)
 
 # County with highest jailed Latino population
 latinx_wa_highest <- incarceration_data %>%
